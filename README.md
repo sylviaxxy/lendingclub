@@ -11,7 +11,7 @@
 # Summary
 * The first task is to complete Exploratory Data Analysis for Kaggle LendingClub dataset.
 * The second task is to build the prototype of a data pipeline to feed a data warehouse with data of this dataset. 
-* The data was downloaded from [Kaggle](https://www.kaggle.com/wndykan/lending-club-data). 
+* The data was downloaded from [Kaggle](https://www.kaggle.com/wendykan/lending-club-loan-data). 
 * The data warehouse will allow data scientists and data analysts to interactively query and explore.
 * The data warehouse can also be used as a foundation for machine learning model development.
 
